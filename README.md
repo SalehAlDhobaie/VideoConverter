@@ -16,4 +16,3 @@ this library will help Swift Developers to convert videos
 - Support Cocoapods.
 - Support Carthage.
 - Support Swift Package Manager with Swift 3.0 (waiting for release).
-- 
